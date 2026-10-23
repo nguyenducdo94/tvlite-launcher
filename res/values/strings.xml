@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Lite</string>
+    <string name="inputs">Nguồn vào</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="settings">Cài đặt</string>
+    <string name="all_apps">Tất cả ứng dụng</string>
+    <string name="hint">Nút Menu trên một ứng dụng: ghim vào dock, ẩn, gỡ cài đặt. Nút Menu ở màn hình chính: đổi hình nền.</string>
+    <string name="morning">Chào buổi sáng</string>
+    <string name="afternoon">Chào buổi chiều</string>
+    <string name="evening">Chào buổi tối</string>
+    <string name="pin">Ghim vào dock</string>
+    <string name="unpin">Bỏ ghim khỏi dock</string>
+    <string name="hide">Ẩn khỏi màn hình chính</string>
+    <string name="info">Thông tin ứng dụng</string>
+    <string name="uninstall">Gỡ cài đặt</string>
+    <string name="show_hidden">Hiện lại các ứng dụng đã ẩn</string>
+    <string name="old_home">Mở giao diện PatchWall cũ</string>
+    <string name="cannot_open">Không mở được</string>
+    <string name="wallpaper">Đổi hình nền</string>
+    <string name="wp_daily">Tự đổi mỗi ngày</string>
+    <string name="wp_aurora">Cực quang</string>
+    <string name="wp_dusk">Hoàng hôn trên núi</string>
+    <string name="wp_ocean">Biển đêm</string>
+    <string name="wp_galaxy">Thiên hà</string>
+    <string name="wp_waves">Sóng màu</string>
+    <string name="wp_folder_hint">Thêm ảnh của bạn: gửi từ điện thoại qua Bluetooth, hoặc chép vào TVLite, Pictures, DCIM hay Download trên TV hoặc USB</string>
+</resources>
